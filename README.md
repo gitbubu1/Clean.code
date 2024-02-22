@@ -1,5 +1,6 @@
 # Clean.code
 A Handbook of Agile Software Craftsmanship
-Meaningful Names
-Functions
-Comments
+
+1). Meaningful Names
+2). Functions
+3). Comments
